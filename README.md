@@ -1,2 +1,2 @@
-# java_dfa
-An example of a DFA represented in Java
+# Java DFA
+An example of a DFA implemented in Java
